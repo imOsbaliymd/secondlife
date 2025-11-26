@@ -7,8 +7,7 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "server": "node server.js",
-    "pm2:start": "pm2 start ../deploy/pm2/ecosystem.config.js && pm2 save"
+    "server": "node server.js"
   },
   "dependencies": {
     "cors": "^2.8.5",
