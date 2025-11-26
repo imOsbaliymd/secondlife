@@ -9,8 +9,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const app = express();
-// 核心修改：端口改为 80，直接监听 HTTP 请求
-const PORT = 80;
+const PORT = process.env.PORT ? parseInt(process.env.PORT) : 3001;
 
 // 1. 基础中间件
 app.use(cors());
