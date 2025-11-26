@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Rian Doris",
+    "bio": "Rian Doris 是 Flow Research Collective 的联合创始人兼首席执行官，该机构致力于研究和教授“心流”状态的科学与实践。他与高效能专家 Steven Kotler 合作，为企业家、运动员和专业人士提供提升专注力与表现力的培训课程。Rian 以将神经科学与实际工作场景结合的教学方式广受欢迎。",
+    "avatar": "/uploads/img-1764130900962-23454523.png",
+    "id": "mifi3ucvsqjje0axt"
+  },
+  {
+    "name": "Dan Koe",
+    "bio": "Dan Koe 是一位知名的内容创作者与思维教练，专注于个人成长、数字创业与哲学思维的结合。他通过社交媒体、在线课程和写作，帮助人们建立具有深度的思考习惯和可持续的个人品牌。他的风格独特，强调内在驱动、自我教育与长期主义。",
+    "avatar": "/uploads/img-1764130933365-530559814.png",
+    "id": "mifi4g86mi2h1uv58"
+  },
+  {
+    "name": "Todd Herman",
+    "bio": "Todd Herman 是一位高绩效教练、《90天变身计划》（The Alter Ego Effect）一书的作者。他专注于帮助企业家、运动员与职场精英通过“另一个自我”策略，突破心理障碍，发挥出最强表现。他的理念强调：改变不是伪装，而是激活你内在已存在的潜能。",
+    "avatar": "/uploads/img-1764130956321-281017361.png",
+    "id": "mifi4xkgkr88k9osz"
+  },
+  {
+    "name": "方洙正",
+    "bio": "方洙正（Bang Si-hyuk），又称“Hitman” Bang，是韩国知名音乐制作人、作词人，也是 HYBE（原 Big Hit Entertainment）的创始人与董事长。他是防弹少年团（BTS）背后的核心推手，凭借其独到的眼光与创新商业模式，彻底改变了韩国娱乐产业的格局，成为亚洲最有影响力的音乐产业人物之一。",
+    "avatar": "/uploads/img-1764130976375-715968404.png",
+    "id": "mifi5h8u3hkaknsa0"
+  },
+  {
+    "name": "Karen Simecek ",
+    "bio": "Karen Simecek 是英国哲学家，专注于诗歌哲学、语言哲学与道德沟通。她是沃里克大学（University of Warwick）哲学系副教授，研究关注诗歌如何作为一种独特的表达形式，促进情感理解与伦理对话。她的作品探讨艺术在复杂人际关系与社会互动中的作用。",
+    "avatar": "/uploads/img-1764134376507-709966694.png",
+    "id": "mifk6bt2ihb177ad4"
+  },
+  {
+    "name": "H. James Wilson",
+    "bio": "H. James Wilson 是麻省理工技术评论与《哈佛商业评论》常客撰稿人，同时是埃森哲（Accenture）技术创新与人工智能研究的主管。他专注于人机协作、AI与未来工作的融合问题，合著了《人+机器》（Human + Machine）等重要著作，影响了全球企业对AI应用的理解与实践方向。",
+    "avatar": "/uploads/img-1764134425200-135156341.png",
+    "id": "mifk7c2vk4nt86l4o"
+  },
+  {
+    "name": "摩根·豪泽尔",
+    "bio": "财经作家，畅销书《金钱心理学》（The Psychology of Money）作者。他擅长以故事方式解读财富、风险与人性，强调行为经济学对投资决策的深远影响。其作品影响了全球读者对金钱观的重新思考。",
+    "avatar": "/uploads/img-1764134458859-148724375.png",
+    "id": "mifk81dlletoj8egn"
+  },
+  {
+    "name": "许纪霖",
+    "bio": "中国知名历史学者与公共知识分子，研究领域涵盖思想史、近代史与公共文化。他以深入浅出的写作风格、独立思考的立场，广泛参与公共话语，推动中国现代思想的多元发展。",
+    "avatar": "/uploads/img-1764134491452-871254367.png",
+    "id": "mifk8utaijq5y8ujp"
+  },
+  {
+    "name": "Scott Young",
+    "bio": "学习效率专家，以“超速学习”（Ultralearning）理念著称。他以自我挑战完成MIT计算机课程而闻名，致力于帮助人们通过高强度、自主驱动的学习策略，快速掌握新技能。",
+    "avatar": "/uploads/img-1764135304810-294316069.png",
+    "id": "mifkq4vewzrkqw3mz"
+  },
+  {
+    "name": "巴拉吉· 斯里尼瓦桑",
+    "bio": "硅谷思想领袖，前Coinbase CTO、a16z合伙人，深耕去中心化技术与网络国家概念。他倡导技术变革中的个人主权，是推动比特币与Web3理念的先锋人物。",
+    "avatar": "/uploads/img-1764135417474-928816456.png",
+    "id": "mifksjpolmfc1csx8"
+  },
+  {
+    "name": "Sergey Young",
+    "bio": "长寿投资者、《百岁人生公式》作者，Longevity Vision Fund 创始人，专注于生物技术与延寿科技投资。他致力于将长寿科技大众化，目标是帮助十亿人延长健康寿命。",
+    "avatar": "/uploads/img-1764135449271-159907051.png",
+    "id": "mifktqs5s77p5y6qf"
+  },
+  {
+    "name": "Jeff Kahn",
+    "bio": "睡眠科学专家，Rise Science 联合创始人兼CEO。他基于生理节律设计产品，帮助人们提升认知表现与精力管理，强调“科学地休息”对生产力的重要性。\n",
+    "avatar": "/uploads/img-1764135505339-878484249.png",
+    "id": "mifkvcieyasp2cbxq"
+  },
+  {
+    "name": "保罗·格雷厄姆",
+    "bio": "Y Combinator 创始人之一、程序员、作家兼投资人。他以《黑客与画家》等随笔广受推崇，是硅谷初创文化的重要思想推动者。他提倡创业者要专注打造用户喜欢的产品，以思想深刻、文风简洁著称。\n",
+    "avatar": "/uploads/img-1764135844245-922866142.png",
+    "id": "mifl1t2wutb20087k"
+  },
+  {
+    "name": "Sandra Trappen",
+    "bio": "社会理论学者，研究兴趣涉及身份、权力、文化与数字社会。她以批判性视角分析当代社会结构，探讨社交媒体、性别与规范如何塑造我们对自我的理解。\n",
+    "avatar": "/uploads/img-1764136003721-7282400.png",
+    "id": "mifl57gtyc8cak086"
+  },
+  {
+    "name": "Arthur C. Brooks",
+    "bio": "哈佛大学教授，专注于幸福、领导力与公共政策研究。他曾任美国企业研究所（AEI）主席，以跨学科方式探讨成功与幸福的关系，著有《从强势到幸福》等畅销书，深受政商界欢迎。",
+    "avatar": "/uploads/img-1764136041336-235118031.png",
+    "id": "mifl5yq5bbfyy6w47"
+  },
+  {
+    "name": "Marney A. White",
+    "bio": "耶鲁大学心理学与公共卫生教授，研究聚焦饮食行为、情绪调节与健康干预。她在行为科学与心理健康领域的跨学科成果，为临床实践与公众健康教育提供了重要支持。",
+    "avatar": "/uploads/img-1764136076069-869493084.png",
+    "id": "mifl6vidh9bgdewj0"
+  },
+  {
+    "name": "David Brooks",
+    "bio": "《纽约时报》专栏作家、社会评论家，擅长探讨道德、文化与身份的深层议题。著有《第二座山》《品格之路》等作品，强调“内在成功”对人生幸福的重要性，是美国主流媒体中极具影响力的公共知识分子之一。",
+    "avatar": "/uploads/img-1764136227120-841428485.png",
+    "id": "miflag1sh7sxmyxcx"
+  },
+  {
+    "name": "Amy Kind",
+    "bio": "美国哲学家、克莱蒙特麦肯纳学院教授，研究专长为想象、意识与哲学心灵理论。她深入探讨想象力在人类认知与道德判断中的角色，著有多篇重要论文和编辑书籍，在学术界享有盛誉。",
+    "avatar": "/uploads/img-1764136359806-733511614.png",
+    "id": "miflcqnxihmhtht0r"
+  },
+  {
+    "name": "Ali Abdaal",
+    "bio": "前医生、现为全球知名的学习与效率类 YouTuber。他以清晰实用的内容分享学习方法、时间管理与数字生产力，深受年轻专业人士欢迎，也是“Build A Second Brain”等理念的传播者之一。",
+    "avatar": "/uploads/img-1764136600112-572413420.png",
+    "id": "miflhwsyry7dbh1jc"
+  }
+]
